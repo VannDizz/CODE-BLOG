@@ -1,0 +1,7 @@
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.exe.config
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.exe
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.pdb
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.csprojAssemblyReference.cache
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.csproj.CoreCompileInputs.cache
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.exe
+C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.pdb

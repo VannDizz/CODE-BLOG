@@ -1,0 +1,7 @@
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\bin\Debug\Video_4_Приведение типов.exe.config
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\bin\Debug\Video_4_Приведение типов.exe
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\bin\Debug\Video_4_Приведение типов.pdb
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\obj\Debug\Video_4_Приведение типов.csprojAssemblyReference.cache
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\obj\Debug\Video_4_Приведение типов.csproj.CoreCompileInputs.cache
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\obj\Debug\Video_4_Приведение типов.exe
+C:\Users\Yuriy\source\repos\Video_4_Приведение типов\obj\Debug\Video_4_Приведение типов.pdb
