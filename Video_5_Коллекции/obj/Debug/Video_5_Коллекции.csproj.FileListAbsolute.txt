@@ -5,3 +5,10 @@ C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Кол�
 C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.csproj.CoreCompileInputs.cache
 C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.exe
 C:\Users\Yuriy\source\repos\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.pdb
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.exe.config
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.exe
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\bin\Debug\Video_5_Коллекции.pdb
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.csprojAssemblyReference.cache
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.csproj.CoreCompileInputs.cache
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.exe
+D:\Work\All\CODE-BLOG\Video_5_Коллекции\obj\Debug\Video_5_Коллекции.pdb

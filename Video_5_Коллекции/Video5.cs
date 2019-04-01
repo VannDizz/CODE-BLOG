@@ -10,13 +10,32 @@ namespace Video_5_Коллекции
     {
         static void Main(string[] args)
         {
-            //Объявление одномерного массива с десятью переменными
-            int[] array1 = new int[10];
-            array1[0] = 1;
-            array1[9] = 5;
+            //МАССИВЫ ------------------------------------------------
+            //Объявление одномерного массива 
+            int[] numbers = { -9, -8, -7 - 6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
-            int[,] array2 = new int[10, 10];
+            
 
+
+
+
+            //Перебор FORом-----------------------------------------------
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.Write(numbers[i]);
+            //}
+
+                       
+            // Перебор foreach -------------------------------------------
+            //foreach (int i in numbers)
+            //{
+            //    Console.Write(i + " ");
+            //}
+
+
+
+
+            // СПИСКИ --------------------------------------------------------
             //Создание пустого списка
             List<string> day = new List<string>();
             //Добавление значений
@@ -26,7 +45,7 @@ namespace Video_5_Коллекции
 
 
 
-            Console.WriteLine(day.ToString());
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
