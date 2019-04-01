@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_6_Условный о
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_7_Циклы", "Video_7_Циклы\Video_7_Циклы.csproj", "{FE3382F3-D5AD-4195-9B01-0EED120C91F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_8_ООП", "Video_8_ООП\Video_8_ООП.csproj", "{28737A6B-8A60-49B3-812E-4AB0A058F16C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FE3382F3-D5AD-4195-9B01-0EED120C91F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE3382F3-D5AD-4195-9B01-0EED120C91F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE3382F3-D5AD-4195-9B01-0EED120C91F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28737A6B-8A60-49B3-812E-4AB0A058F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28737A6B-8A60-49B3-812E-4AB0A058F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28737A6B-8A60-49B3-812E-4AB0A058F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28737A6B-8A60-49B3-812E-4AB0A058F16C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
