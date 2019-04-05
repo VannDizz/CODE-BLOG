@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\bin\Debug\Video_6_Условный операток.exe.config
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\bin\Debug\Video_6_Условный операток.exe
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\bin\Debug\Video_6_Условный операток.pdb
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\obj\Debug\Video_6_Условный операток.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\obj\Debug\Video_6_Условный операток.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\obj\Debug\Video_6_Условный операток.exe
+C:\Woks\Project\CODE-BLOG\Video_6_Условный операток\obj\Debug\Video_6_Условный операток.pdb

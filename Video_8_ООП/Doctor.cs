@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Video_6_Условный_операток
+namespace Video_8_ООП
 {
-    class Program
+    class Doctor : Person
     {
-        static void Main(string[] args)
-        {
-        }
+        public string Profil;
     }
 }

@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\bin\Debug\Video_8_ООП.exe.config
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\bin\Debug\Video_8_ООП.exe
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\bin\Debug\Video_8_ООП.pdb
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\obj\Debug\Video_8_ООП.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\obj\Debug\Video_8_ООП.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\obj\Debug\Video_8_ООП.exe
+C:\Woks\Project\CODE-BLOG\Video_8_ООП\obj\Debug\Video_8_ООП.pdb
