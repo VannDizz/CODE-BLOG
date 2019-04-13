@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28721.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_5_Коллекции", "Video_5_Коллекции\Video_5_Коллекции.csproj", "{A32F4942-4CED-4D62-91EC-721A85FE6413}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_05_Коллекции", "Video_5_Коллекции\Video_05_Коллекции.csproj", "{A32F4942-4CED-4D62-91EC-721A85FE6413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_4_Приведение типов", "Video_4_Приведение типов\Video_4_Приведение типов.csproj", "{CFAE49E3-2063-4145-95BB-13CBEC62B550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_04_Приведение типов", "Video_4_Приведение типов\Video_04_Приведение типов.csproj", "{CFAE49E3-2063-4145-95BB-13CBEC62B550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_6_Условный операток", "Video_6_Условный операток\Video_6_Условный операток.csproj", "{9018115D-6C1C-4401-B613-2C029F511F80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_06_Условный операток", "Video_6_Условный операток\Video_06_Условный операток.csproj", "{9018115D-6C1C-4401-B613-2C029F511F80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_7_Циклы", "Video_7_Циклы\Video_7_Циклы.csproj", "{FE3382F3-D5AD-4195-9B01-0EED120C91F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_07_Циклы", "Video_7_Циклы\Video_07_Циклы.csproj", "{FE3382F3-D5AD-4195-9B01-0EED120C91F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_8_ООП", "Video_8_ООП\Video_8_ООП.csproj", "{28737A6B-8A60-49B3-812E-4AB0A058F16C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_08_ООП", "Video_8_ООП\Video_08_ООП.csproj", "{28737A6B-8A60-49B3-812E-4AB0A058F16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_9_Классы", "Video_9_Классы\Video_9_Классы.csproj", "{1F1A7CF6-8127-40DD-A141-9F4796BB4B94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_09_Классы", "Video_9_Классы\Video_09_Классы.csproj", "{1F1A7CF6-8127-40DD-A141-9F4796BB4B94}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develop", "Develop\Develop.csproj", "{D75305E1-4A5B-4EE3-8382-62CC1EC32E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_10_Методы", "Video_10_Методы\Video_10_Методы.csproj", "{9A196CF5-4BD6-48FF-B3CD-5C17DC7C2DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D75305E1-4A5B-4EE3-8382-62CC1EC32E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75305E1-4A5B-4EE3-8382-62CC1EC32E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75305E1-4A5B-4EE3-8382-62CC1EC32E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A196CF5-4BD6-48FF-B3CD-5C17DC7C2DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A196CF5-4BD6-48FF-B3CD-5C17DC7C2DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A196CF5-4BD6-48FF-B3CD-5C17DC7C2DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A196CF5-4BD6-48FF-B3CD-5C17DC7C2DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

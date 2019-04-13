@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\bin\Debug\Video_10_Методы.exe.config
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\bin\Debug\Video_10_Методы.exe
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\bin\Debug\Video_10_Методы.pdb
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\obj\Debug\Video_10_Методы.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\obj\Debug\Video_10_Методы.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\obj\Debug\Video_10_Методы.exe
+C:\Woks\Project\CODE-BLOG\Video_10_Методы\obj\Debug\Video_10_Методы.pdb
