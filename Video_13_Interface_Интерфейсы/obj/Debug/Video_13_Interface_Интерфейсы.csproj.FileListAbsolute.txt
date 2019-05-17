@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\bin\Debug\Video_13_Interface_Интерфейсы.exe.config
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\bin\Debug\Video_13_Interface_Интерфейсы.exe
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\bin\Debug\Video_13_Interface_Интерфейсы.pdb
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\obj\Debug\Video_13_Interface_Интерфейсы.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\obj\Debug\Video_13_Interface_Интерфейсы.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\obj\Debug\Video_13_Interface_Интерфейсы.exe
+C:\Woks\Project\CODE-BLOG\Video_13_Interface_Интерфейсы\obj\Debug\Video_13_Interface_Интерфейсы.pdb

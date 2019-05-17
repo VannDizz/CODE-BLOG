@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\bin\Debug\Video_11_Перегрузка операторов.exe.config
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\bin\Debug\Video_11_Перегрузка операторов.exe
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\bin\Debug\Video_11_Перегрузка операторов.pdb
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\obj\Debug\Video_11_Перегрузка операторов.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\obj\Debug\Video_11_Перегрузка операторов.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\obj\Debug\Video_11_Перегрузка операторов.exe
+C:\Woks\Project\CODE-BLOG\Video_11_Перегрузка операторов\obj\Debug\Video_11_Перегрузка операторов.pdb

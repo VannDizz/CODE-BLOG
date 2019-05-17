@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\bin\Debug\Video_15_Delegate_Event.exe.config
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\bin\Debug\Video_15_Delegate_Event.exe
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\bin\Debug\Video_15_Delegate_Event.pdb
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\obj\Debug\Video_15_Delegate_Event.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\obj\Debug\Video_15_Delegate_Event.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\obj\Debug\Video_15_Delegate_Event.exe
+C:\Woks\Project\CODE-BLOG\Video_15_Delegate_Event\obj\Debug\Video_15_Delegate_Event.pdb

@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\bin\Debug\Video_14_Exception_Исключения.exe.config
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\bin\Debug\Video_14_Exception_Исключения.exe
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\bin\Debug\Video_14_Exception_Исключения.pdb
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\obj\Debug\Video_14_Exception_Исключения.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\obj\Debug\Video_14_Exception_Исключения.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\obj\Debug\Video_14_Exception_Исключения.exe
+C:\Woks\Project\CODE-BLOG\Video_14_Exception_Исключения\obj\Debug\Video_14_Exception_Исключения.pdb

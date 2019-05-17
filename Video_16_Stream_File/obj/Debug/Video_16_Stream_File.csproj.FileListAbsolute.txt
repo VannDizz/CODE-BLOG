@@ -1,0 +1,7 @@
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\bin\Debug\Video_16_Stream_File.exe.config
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\bin\Debug\Video_16_Stream_File.exe
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\bin\Debug\Video_16_Stream_File.pdb
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\obj\Debug\Video_16_Stream_File.csprojAssemblyReference.cache
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\obj\Debug\Video_16_Stream_File.csproj.CoreCompileInputs.cache
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\obj\Debug\Video_16_Stream_File.exe
+C:\Woks\Project\CODE-BLOG\Video_16_Stream_File\obj\Debug\Video_16_Stream_File.pdb
